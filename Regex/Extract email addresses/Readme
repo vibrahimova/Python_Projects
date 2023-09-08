@@ -1,1 +1,7 @@
+Regular expression is a sequence of character(s) mainly used to find and replace patterns in a string or file.
 
+* In this repository I want to answer below questions for given text data:*
+
+How many emails have you received?
+How many emails came from unique emails?
+How many emails did you receive from unique hosts?
